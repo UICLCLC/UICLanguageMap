@@ -3,136 +3,7 @@
 <Document id="1H_XOhhFnh3Nn8zfjI66GYkqjuMB0hCaE">
 	<name>UIC Language Map</name>
 	<description>What langauges does the UIC community speak? What new languages are we learning? Have a look around and see! Add your own, too: https://go.uic.edu/languages-of-uic</description>
-	<gx:CascadingStyle kml:id="__managed_style_1653F0097433A201CFE8">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-				<color>ffe6b641</color>
-				<scale>2</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_21554200D333A201CFDB">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<scale>2.4</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=41b6e6&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-				<color>ff621e00</color>
-				<scale>2</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>6</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_04B1A6C81533A201CFE7">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<scale>2.4</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-				<color>fff5a542</color>
-				<scale>2</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>6</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_13E5B7E08D33A201CFE6">
-		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
-		<Style>
-			<IconStyle>
-				<scale>2</scale>
-				<Icon>
-					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
-				</Icon>
-				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
-			</IconStyle>
-			<LabelStyle>
-				<color>fff5a542</color>
-				<scale>2</scale>
-			</LabelStyle>
-			<LineStyle>
-				<color>ff2dc0fb</color>
-				<width>4</width>
-			</LineStyle>
-			<PolyStyle>
-				<color>40ffffff</color>
-			</PolyStyle>
-			<BalloonStyle>
-			</BalloonStyle>
-		</Style>
-	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_0B86A842D133A201CFDB">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_13AC19AF6733A201CFDB</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_21554200D333A201CFDB</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_0B03ADFDFC33A201CFE6">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_13E5B7E08D33A201CFE6</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_04B1A6C81533A201CFE7</styleUrl>
-		</Pair>
-	</StyleMap>
-	<StyleMap id="__managed_style_05CA44547533A201CFDC">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#__managed_style_1E89A8001A33A201CFDC</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#__managed_style_252B9BA1D833A201CFDC</styleUrl>
-		</Pair>
-	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_2A6B80F1D933A201CFE8">
+	<gx:CascadingStyle kml:id="__managed_style_2B0457F15133A371FB4A">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -157,7 +28,41 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_1E89A8001A33A201CFDC">
+	<gx:CascadingStyle kml:id="__managed_style_141D941CE033A371FB4A">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffe6b641</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_089D1923F533A371FB47">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1B8DEFF18733A371FB47</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2996296D2633A371FB47</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_1FC42BDF3433A371FB44">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -182,7 +87,67 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<gx:CascadingStyle kml:id="__managed_style_13AC19AF6733A201CFDB">
+	<StyleMap id="__managed_style_0A3E1DD04C33A371FB44">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1FC42BDF3433A371FB44</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_20DD31E91C33A371FB44</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_29086D8A6E33A371FB43">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=41b6e6&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff621e00</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1B8DEFF18733A371FB47">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff5a542</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_17E5A0418933A371FB43">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -207,17 +172,42 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
-	<StyleMap id="__managed_style_01BE9FE92B33A201CFE8">
+	<StyleMap id="__managed_style_01E233382A33A371FB4A">
 		<Pair>
 			<key>normal</key>
-			<styleUrl>#__managed_style_1653F0097433A201CFE8</styleUrl>
+			<styleUrl>#__managed_style_141D941CE033A371FB4A</styleUrl>
 		</Pair>
 		<Pair>
 			<key>highlight</key>
-			<styleUrl>#__managed_style_2A6B80F1D933A201CFE8</styleUrl>
+			<styleUrl>#__managed_style_2B0457F15133A371FB4A</styleUrl>
 		</Pair>
 	</StyleMap>
-	<gx:CascadingStyle kml:id="__managed_style_252B9BA1D833A201CFDC">
+	<gx:CascadingStyle kml:id="__managed_style_2996296D2633A371FB47">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff5a542</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_20DD31E91C33A371FB44">
 		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
 		<Style>
 			<IconStyle>
@@ -242,6 +232,16 @@
 			</BalloonStyle>
 		</Style>
 	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0365DC2E0A33A371FB43">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_17E5A0418933A371FB43</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_29086D8A6E33A371FB43</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Placemark id="0FF56BCA7133838D1BEA">
 		<name>UIC: You are here</name>
 		<description><![CDATA[<div>What langauges does the UIC community speak? What new languages are we learning? Have a look around and see!<br></div><div><br></div><div>Add your own, too: <a href="https://go.uic.edu/languages-of-uic">go.uic.edu/languages-of-uic</a><br></div>]]></description>
@@ -255,7 +255,7 @@
 			<range>365.8107991048746</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0B86A842D133A201CFDB</styleUrl>
+		<styleUrl>#__managed_style_0365DC2E0A33A371FB43</styleUrl>
 		<Point>
 			<coordinates>-87.64948387752328,41.87288346635717,191.3561034780447</coordinates>
 		</Point>
@@ -273,7 +273,7 @@
 			<range>4665779.121646285</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-0.1275,51.507222,-174.3102635952161</coordinates>
 		</Point>
@@ -291,7 +291,7 @@
 			<range>1973959.901340902</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>19.818611,41.327222,16.95773417370692</coordinates>
 		</Point>
@@ -309,7 +309,7 @@
 			<range>2686282.585037649</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-84.4104915103169,33.73942604267716,395.0124877780899</coordinates>
 		</Point>
@@ -327,7 +327,7 @@
 			<range>300388.3094500378</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-72.674167,41.7625,56.66167105013653</coordinates>
 		</Point>
@@ -345,7 +345,7 @@
 			<range>1261854.145140499</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>31.235833,30.044444,382.1616684850238</coordinates>
 		</Point>
@@ -363,7 +363,7 @@
 			<range>4011670.474294424</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>44.366111,33.315278,-646.772098604533</coordinates>
 		</Point>
@@ -381,7 +381,7 @@
 			<range>470623.918511644</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>35.932778,31.949722,821.8194141634575</coordinates>
 		</Point>
@@ -399,7 +399,7 @@
 			<range>259352.604897134</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>35.505833,33.898056,42.87515753964816</coordinates>
 		</Point>
@@ -417,7 +417,7 @@
 			<range>195554.9995729141</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>35.2,31.9,807.3854712353225</coordinates>
 		</Point>
@@ -435,7 +435,7 @@
 			<range>426227.1668616683</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>36.291944,33.513056,568.0094801060993</coordinates>
 		</Point>
@@ -453,9 +453,45 @@
 			<range>2469227.875194848</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>44.206389,15.348333,2613.861526783721</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A7C5A2F033A35F5AEF">
+		<name>Assyrian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Assyrian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>43.85345930015759</longitude>
+			<latitude>36.48123769553457</latitude>
+			<altitude>784.3195214400414</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1089143.592710048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>43.3775,36.269722,729.7888195416406</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007CF5B09933A36B4896">
+		<name>Basque</name>
+		<description><![CDATA[<div><b>1 respondent is learning Basque.</b></div>]]></description>
+		<LookAt>
+			<longitude>-0.6354061628863772</longitude>
+			<latitude>42.97314975544369</latitude>
+			<altitude>1249.147215468407</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>905486.2237595022</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>-2.923611,43.256944,482.7972949815889</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0ADC9A6AB0335B3A8E83">
@@ -471,7 +507,7 @@
 			<range>923983.4462486207</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>90.41552197802197,23.80401611252695,0</coordinates>
 		</Point>
@@ -489,7 +525,7 @@
 			<range>1973959.901340902</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>23.33,42.72540330215936,563.3846274243454</coordinates>
 		</Point>
@@ -507,7 +543,7 @@
 			<range>3904296.96479559</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>96.15999999999998,16.795,521.2893553145962</coordinates>
 		</Point>
@@ -525,7 +561,7 @@
 			<range>818053.4302210808</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>114.2,22.3,164.3037153708573</coordinates>
 		</Point>
@@ -543,7 +579,7 @@
 			<range>1747219.117713869</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>2.176944,41.382778,183.5394646352967</coordinates>
 		</Point>
@@ -561,7 +597,7 @@
 			<range>1745961.41291231</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>15.9775,45.81305600000001,452.3099720543563</coordinates>
 		</Point>
@@ -579,14 +615,32 @@
 			<range>1566554.683664739</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>14.421389,50.0875,339.5150843758793</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id="0003F3C2A233A329F49C">
+		<name>Dari</name>
+		<description><![CDATA[<div><b>1 respondent speaks Dari.</b></div>]]></description>
+		<LookAt>
+			<longitude>69.56171171134667</longitude>
+			<latitude>34.11565736271448</latitude>
+			<altitude>3219.622699251834</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1168179.725705087</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>69.17833299999999,34.525278,1767.358047411921</coordinates>
+		</Point>
+	</Placemark>
 	<Placemark id="0AA68B210D336A3074DC">
-		<name>Dutch</name>
-		<description><![CDATA[<div><b>1 respondent speaks Dutch.</b></div>]]></description>
+		<name>Dutch (The Netherlands)</name>
+		<description><![CDATA[<div><b>1 respondent speaks </b><b>Dutch (The Netherlands)</b><b>.</b><b><br></b></div><div><b>1 respondent is learning Dutch.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>8.222255515540473</longitude>
 			<latitude>50.60733580560196</latitude>
@@ -597,7 +651,7 @@
 			<range>1534942.793723792</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>4.893611,52.372778,-81.80423640114529</coordinates>
 		</Point>
@@ -615,14 +669,14 @@
 			<range>1698504.512064457</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>24.745278,59.437222,292.5223712263888</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="05F2799543336A09CDC8">
-		<name>Farsi</name>
-		<description><![CDATA[<div><b>6 respondents speak Farsi.</b><br></div>]]></description>
+		<name>Farsi/Persian</name>
+		<description><![CDATA[<div><b>6 respondents speak </b><b>Farsi/Persian</b><b>.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>53.87689602044957</longitude>
 			<latitude>34.46336277012776</latitude>
@@ -633,7 +687,7 @@
 			<range>1046877.19249025</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>51.388889,35.689167,1447.090090345842</coordinates>
 		</Point>
@@ -651,7 +705,7 @@
 			<range>1197132.283905298</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>15.311944,-4.321944,806.7553561365504</coordinates>
 		</Point>
@@ -669,7 +723,7 @@
 			<range>1213401.941066534</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>2.326762391423143,48.85184740605908,474.7291759589745</coordinates>
 		</Point>
@@ -687,7 +741,7 @@
 			<range>408205.2861555666</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-72.688333,19.445556,70.23360550969497</coordinates>
 		</Point>
@@ -705,7 +759,7 @@
 			<range>1851717.602136433</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-73.57178045816381,45.53063274470118,253.315512849215</coordinates>
 		</Point>
@@ -723,7 +777,7 @@
 			<range>1840076.23788625</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-0.2,5.55,245.1517766704622</coordinates>
 		</Point>
@@ -741,14 +795,32 @@
 			<range>1883951.604061425</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-6.260278,53.35000000000001,-420.5908610120991</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id="021F185DE233A37FCA33">
+		<name>Garhwali</name>
+		<description><![CDATA[<div><b>1 respondent speaks Garhwali.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>79.29640331192046</longitude>
+			<latitude>29.53995075833923</latitude>
+			<altitude>2101.485547360282</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1067721.504034996</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>78.029,30.345,2569.208336197215</coordinates>
+		</Point>
+	</Placemark>
 	<Placemark id="06824CD8A2336A31EF80">
-		<name>German</name>
-		<description><![CDATA[<div><b>5 respondents speak German.</b><b><br></b></div><div><b>22 respondents are learning German.</b></div>]]></description>
+		<name>German (Germany)</name>
+		<description><![CDATA[<div><b>5 respondents speak German. (Germany).</b><br></div><div><b>22 respondents are learning German.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>9.305749052464503</longitude>
 			<latitude>50.33822351463976</latitude>
@@ -759,7 +831,7 @@
 			<range>2575109.189338088</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>13.405,52.52,-444.566061046852</coordinates>
 		</Point>
@@ -777,7 +849,7 @@
 			<range>516026.843496412</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>23.73,38,65.26053349609589</coordinates>
 		</Point>
@@ -795,7 +867,7 @@
 			<range>81168.50773693064</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>72.571389,23.0225,71.17652264173917</coordinates>
 		</Point>
@@ -813,7 +885,7 @@
 			<range>1088220.725229979</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>11.254167,43.771389,528.9775937482433</coordinates>
 		</Point>
@@ -831,7 +903,7 @@
 			<range>487550.7663045824</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-72.333333,18.533333,-49.93526635194094</coordinates>
 		</Point>
@@ -849,14 +921,14 @@
 			<range>2927923.676938713</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>8.592032967032976,12.00056869623955,0</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0631054804335B4B96BC">
 		<name>Modern Hebrew</name>
-		<description><![CDATA[<div><b>7 respondents speak </b><b>Modern&nbsp;</b><b>Hebrew.</b><b><br></b></div><div><b>2 respondents are learning </b><b>Modern&nbsp;</b><b>Hebrew.</b><br></div>]]></description>
+		<description><![CDATA[<div><b>7 respondents speak Modern&nbsp;Hebrew.</b><br></div><div><b>2 respondents are learning </b><b>Modern&nbsp;</b><b>Hebrew.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>34.67828019461797</longitude>
 			<latitude>32.1140378390721</latitude>
@@ -867,7 +939,7 @@
 			<range>449542.3632849009</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>34.78,32.08,25.01842309512434</coordinates>
 		</Point>
@@ -885,7 +957,7 @@
 			<range>1628391.456666291</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>122.950917,10.676458,-213.7608835222013</coordinates>
 		</Point>
@@ -903,7 +975,7 @@
 			<range>72727.63100911863</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>77.23,28.61,259.178933913595</coordinates>
 		</Point>
@@ -921,7 +993,7 @@
 			<range>1125728.011492789</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>19.051389,47.4925,385.4308371370824</coordinates>
 		</Point>
@@ -939,7 +1011,7 @@
 			<range>1051859.309812188</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>6.79258241758242,6.132488289009451,0</coordinates>
 		</Point>
@@ -957,7 +1029,7 @@
 			<range>889331.4384891093</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-76.79305600000001,17.971389,749.3242087837247</coordinates>
 		</Point>
@@ -975,7 +1047,7 @@
 			<range>820192.8005187213</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>139.692222,35.689722,-41.83267138306663</coordinates>
 		</Point>
@@ -993,7 +1065,7 @@
 			<range>2244449.407256842</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>77.591667,12.978889,1179.837622987182</coordinates>
 		</Point>
@@ -1011,7 +1083,7 @@
 			<range>1265004.672883898</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>71.422222,51.14722199999999,461.9033807520659</coordinates>
 		</Point>
@@ -1029,7 +1101,7 @@
 			<range>775153.1934895366</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>127.0125089408301,37.57202520548439,421.3711352772081</coordinates>
 		</Point>
@@ -1047,7 +1119,7 @@
 			<range>1412436.289170384</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>102.63,17.98,847.7650005180576</coordinates>
 		</Point>
@@ -1065,7 +1137,7 @@
 			<range>841059.4218935072</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>12.482778,41.893333,28.77975942467134</coordinates>
 		</Point>
@@ -1083,7 +1155,7 @@
 			<range>1698504.512064457</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>24.106389,56.948889,726.1164268789988</coordinates>
 		</Point>
@@ -1101,14 +1173,14 @@
 			<range>559217.3928248137</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>25.2848388805673,54.68418041448864,158.1112317443129</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="026B64AF96335B4959D1">
 		<name>Macedonian</name>
-		<description><![CDATA[<div><b>3 respondents speak&nbsp;</b><span class="mw-page-title-main"><b>Macedonian.</b></span><br></div>]]></description>
+		<description><![CDATA[<div><b>4 respondents speak&nbsp;</b><span class="mw-page-title-main"><b>Macedonian.</b></span><br></div>]]></description>
 		<LookAt>
 			<longitude>21.71014097505775</longitude>
 			<latitude>41.45265399426934</latitude>
@@ -1119,9 +1191,27 @@
 			<range>418571.335078776</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>21.431667,41.996111,421.6309697211921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9AAD464633A37DCF5E">
+		<name>Magahi</name>
+		<description><![CDATA[<div><b>1 respondent speaks Magahi.</b></div>]]></description>
+		<LookAt>
+			<longitude>85.48543711086538</longitude>
+			<latitude>25.63384504568073</latitude>
+			<altitude>295.2290523236332</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1072457.453742921</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>85.137553,25.594034,157.1861060354622</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="08C1C88D5F33464373CA">
@@ -1137,14 +1227,14 @@
 			<range>4967567.515334488</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_0B03ADFDFC33A201CFE6</styleUrl>
+		<styleUrl>#__managed_style_089D1923F533A371FB47</styleUrl>
 		<Point>
 			<coordinates>76.9366,8.524100000000001,286.7085950873835</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="078A1F50FB336A40380C">
 		<name>Mandarin (Mainland)</name>
-		<description><![CDATA[<div><b>7 respondents speak Mandarin (Mainland).</b><br></div><div><b>4 respondents are learning Mandarin.</b><br></div>]]></description>
+		<description><![CDATA[<div><b>7 respondents speak Mandarin (Mainland).</b><br></div><div><b>5 respondents are learning Mandarin Chinese.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>110.7499472968352</longitude>
 			<latitude>33.24346924348752</latitude>
@@ -1155,14 +1245,32 @@
 			<range>5430903.761726618</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>116.3975,39.906667,-669.0851491564254</coordinates>
 		</Point>
 	</Placemark>
+	<Placemark id="08232B466433A377F01B">
+		<name>Mandarin (Malaysia)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Mandarin (Malaysia).</b></div>]]></description>
+		<LookAt>
+			<longitude>100.453302918352</longitude>
+			<latitude>5.392464865363361</latitude>
+			<altitude>13.03534146508611</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>201947.6084313914</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>100.329167,5.414444,14.76909207444894</coordinates>
+		</Point>
+	</Placemark>
 	<Placemark id="0940E5570F336A55CC1D">
 		<name>Mandarin (Taiwan)</name>
-		<description><![CDATA[<div><b>1 respondent speaks Mandarin (Taiwan)</b><br></div><div><b>4 respondents are learning Mandarin.</b><br></div>]]></description>
+		<description><![CDATA[<div><b>1 respondent speaks Mandarin (Taiwan)</b><br></div><div><b>5 respondents are learning Mandarin Chinese.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>119.6383660507142</longitude>
 			<latitude>23.89151281493396</latitude>
@@ -1173,7 +1281,7 @@
 			<range>1682717.506715655</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>121.5625,25.0375,604.087874091004</coordinates>
 		</Point>
@@ -1191,7 +1299,7 @@
 			<range>439058.0247947575</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-15.33073791398371,13.49459100618298,0.9773566822299973</coordinates>
 		</Point>
@@ -1209,7 +1317,7 @@
 			<range>2534941.052367389</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>72.8775,19.076111,388.0598240820735</coordinates>
 		</Point>
@@ -1227,7 +1335,7 @@
 			<range>3921279.017550945</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>106.917222,47.920278,1641.158894572606</coordinates>
 		</Point>
@@ -1245,7 +1353,7 @@
 			<range>2303976.210962534</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>28.60648428849594,-20.12694172811648,1245.451301841531</coordinates>
 		</Point>
@@ -1263,7 +1371,7 @@
 			<range>1841503.307525218</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>65.80207263525989,31.69838578998349,1074.763165075303</coordinates>
 		</Point>
@@ -1281,7 +1389,7 @@
 			<range>1202016.90252319</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>21.011111,52.22999999999999,273.3081390540924</coordinates>
 		</Point>
@@ -1299,7 +1407,7 @@
 			<range>4562495.810945034</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-47.882778,-15.793889,2480.623295638964</coordinates>
 		</Point>
@@ -1317,7 +1425,7 @@
 			<range>1744096.121250093</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-9.15,38.725278,269.1716300925212</coordinates>
 		</Point>
@@ -1335,7 +1443,7 @@
 			<range>642731.725789234</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>74.86,31.64,103.2812678807097</coordinates>
 		</Point>
@@ -1353,14 +1461,14 @@
 			<range>1910597.895448208</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>26.103889,44.4325,-19.61672664516382</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="0965613431336A542265">
 		<name>Russian (Belarus)</name>
-		<description><![CDATA[<div><b>1 respondent speaks Russian (Belarus).</b><br></div><div><b>8 respondents are learning Russian.</b><br></div>]]></description>
+		<description><![CDATA[<div><b>1 respondent speaks Russian (Belarus).</b><br></div><div><b>9 respondents are learning Russian.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>31.09299275940644</longitude>
 			<latitude>52.97102862349529</latitude>
@@ -1371,14 +1479,14 @@
 			<range>1150999.732542783</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>30.35,53.916667,490.2453216369923</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="06AA6B4233336A3B293B">
 		<name>Russian (Russia)</name>
-		<description><![CDATA[<div><b>5 respondents speak Russian (Russia).</b><br></div><div><b>8 respondents are learning Russian.</b><br></div>]]></description>
+		<description><![CDATA[<div><b>6 respondents speak Russian (Russia).</b><br></div><div><b>9 respondents are learning Russian.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>38.7665270029328</longitude>
 			<latitude>54.02393454819801</latitude>
@@ -1389,7 +1497,7 @@
 			<range>3240717.177511455</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>37.617222,55.755833,78.81277028949999</coordinates>
 		</Point>
@@ -1407,7 +1515,7 @@
 			<range>481904.4331278652</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>20.46153846153847,44.81246393992844,0</coordinates>
 		</Point>
@@ -1425,14 +1533,14 @@
 			<range>2624323.725051283</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>79.842778,6.934444,533.659731439904</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="041115BF90336A35A50B">
 		<name>Slovenian</name>
-		<description><![CDATA[<div><b>1 resondent is learning Slovenian.</b></div>]]></description>
+		<description><![CDATA[<div><b>2 resondents are learning Slovenian.</b><br></div>]]></description>
 		<LookAt>
 			<longitude>15.39440158001821</longitude>
 			<latitude>46.47076125219763</latitude>
@@ -1443,9 +1551,27 @@
 			<range>574983.1801012158</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>14.506111,46.051389,277.015804131262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC8D3460E33A367CBC9">
+		<name>Spanish (Argentina)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Argentina).</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-55.45147878627522</longitude>
+			<latitude>-36.15258919165596</latitude>
+			<altitude>139.6315474333506</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2946415.962784588</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>-58.38138900000001,-34.603611,-318.1421675780139</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="04848761533383A3277D">
@@ -1461,7 +1587,7 @@
 			<range>3054606.866481901</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-74.072222,4.711111,2767.457338324286</coordinates>
 		</Point>
@@ -1479,7 +1605,7 @@
 			<range>1196304.731613994</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-82.34816227787131,23.10426524682508,247.1470897026812</coordinates>
 		</Point>
@@ -1497,7 +1623,7 @@
 			<range>756622.3163844645</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-69.92753726389884,18.48390370011413,506.119081834728</coordinates>
 		</Point>
@@ -1515,7 +1641,7 @@
 			<range>4068093.268625736</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-78.5125,-0.22,3150.177945513492</coordinates>
 		</Point>
@@ -1533,7 +1659,7 @@
 			<range>1680529.244662821</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-89.191389,13.698889,698.899673923406</coordinates>
 		</Point>
@@ -1551,7 +1677,7 @@
 			<range>2195313.478093743</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-90.53527800000001,14.613333,1752.010348520554</coordinates>
 		</Point>
@@ -1569,7 +1695,7 @@
 			<range>1208175.744710416</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-87.204722,14.105833,1235.109997842846</coordinates>
 		</Point>
@@ -1587,7 +1713,7 @@
 			<range>3449913.510795237</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-99.13333299999999,19.433333,3396.51149826315</coordinates>
 		</Point>
@@ -1605,7 +1731,7 @@
 			<range>3055386.856114268</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-79.49119415782418,8.995447374542071,-205.218146037681</coordinates>
 		</Point>
@@ -1623,7 +1749,7 @@
 			<range>1715665.233331025</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-77.03749999999999,-12.06,265.6196949786662</coordinates>
 		</Point>
@@ -1641,7 +1767,7 @@
 			<range>948710.6175747514</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-66.063889,18.406389,147.1773676276966</coordinates>
 		</Point>
@@ -1659,7 +1785,7 @@
 			<range>2554740.219576359</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-3.703333,40.416944,758.3105126489216</coordinates>
 		</Point>
@@ -1677,9 +1803,27 @@
 			<range>3055550.714695752</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>-66.903611,10.480556,1270.774745109333</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0436F8848933A3640CF6">
+		<name>Swahili</name>
+		<description><![CDATA[<div><b>1 respondent is learning Swahili.</b></div>]]></description>
+		<LookAt>
+			<longitude>39.97621998532296</longitude>
+			<latitude>-5.137441168590602</latitude>
+			<altitude>-296.1206778251031</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3417631.661404967</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
+		<Point>
+			<coordinates>39.280278,-6.816111,-138.0892519296351</coordinates>
 		</Point>
 	</Placemark>
 	<Placemark id="03F2DE7749335B25B0C7">
@@ -1695,7 +1839,7 @@
 			<range>1150010.884927064</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>120.9772,14.5958,56.55626126065801</coordinates>
 		</Point>
@@ -1713,7 +1857,7 @@
 			<range>1225601.05106771</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>68.78,38.536667,1134.469331777363</coordinates>
 		</Point>
@@ -1731,7 +1875,7 @@
 			<range>2682694.594754577</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_01BE9FE92B33A201CFE8</styleUrl>
+		<styleUrl>#__managed_style_01E233382A33A371FB4A</styleUrl>
 		<Point>
 			<coordinates>80.27500000000001,13.0825,0</coordinates>
 		</Point>
@@ -1749,7 +1893,7 @@
 			<range>2169097.624023557</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>78.474722,17.361667,770.5656957163832</coordinates>
 		</Point>
@@ -1767,7 +1911,7 @@
 			<range>2435637.43560344</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>100.494167,13.7525,-67.81563497571709</coordinates>
 		</Point>
@@ -1785,7 +1929,7 @@
 			<range>2432524.692167938</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>28.955,41.013611,988.7186328480677</coordinates>
 		</Point>
@@ -1803,7 +1947,7 @@
 			<range>2087038.081848621</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>30.523333,50.45,415.0889267993517</coordinates>
 		</Point>
@@ -1821,7 +1965,7 @@
 			<range>2232023.306601942</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>67.01000000000001,24.86,29.1524410659899</coordinates>
 		</Point>
@@ -1839,7 +1983,7 @@
 			<range>2356335.008679629</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>106.702,10.77555,8.811826889354418</coordinates>
 		</Point>
@@ -1857,7 +2001,7 @@
 			<range>6683767.614973783</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>24.032222,49.8425,839.0832729753594</coordinates>
 		</Point>
@@ -1875,7 +2019,7 @@
 			<range>80595.09170372041</range>
 			<altitudeMode>absolute</altitudeMode>
 		</LookAt>
-		<styleUrl>#__managed_style_05CA44547533A201CFDC</styleUrl>
+		<styleUrl>#__managed_style_0A3E1DD04C33A371FB44</styleUrl>
 		<Point>
 			<coordinates>3.384082,6.455027,13.52195002422684</coordinates>
 		</Point>
