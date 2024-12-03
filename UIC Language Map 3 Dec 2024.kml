@@ -1,0 +1,2118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1H_XOhhFnh3Nn8zfjI66GYkqjuMB0hCaE">
+	<name>UIC Language Map</name>
+	<description>What languages does the UIC community speak? What new languages are we learning? Have a look around and see! Add your own, too: https://go.uic.edu/languages-of-uic</description>
+	<StyleMap id="__managed_style_043CE887B434C3385AB9">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1143404D5234C3385AB9</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_28850B994D34C3385AB9</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0AC8CB2B3C34C3385AB0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0A3BD707B534C3385AB1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_15E2D07A9D34C3385AB1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0AFDB30F2634C3385AB6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_15A053427134C3385AB6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_27468E0F2034C3385AB6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_15A053427134C3385AB6">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff5a542</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_21D29DE95834C3385AB2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffe6b641</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_136B684B9134C3385AB2">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffe6b641</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1143404D5234C3385AB9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffe6b641</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_05E689A3BA34C3385AB2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_136B684B9134C3385AB2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_21D29DE95834C3385AB2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_15E2D07A9D34C3385AB1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=41b6e6&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff621e00</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_27468E0F2034C3385AB6">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2.4</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d32f2f&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>fff5a542</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_28850B994D34C3385AB9">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=d50032&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ffe6b641</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0A3BD707B534C3385AB1">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.26.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=41b6e6&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+				<color>ff621e00</color>
+				<scale>2</scale>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<Placemark id="0FF56BCA7133838D1BEA">
+		<name>UIC: You are here</name>
+		<description><![CDATA[<div>What languages does the UIC community speak? What new languages are we learning? Have a look around and see!<br></div><div><br></div><div>Add your own, too: <a href="https://go.uic.edu/languages-of-uic">go.uic.edu/languages-of-uic</a><br></div>]]></description>
+		<LookAt>
+			<longitude>-87.64966780086291</longitude>
+			<latitude>41.87260182642414</latitude>
+			<altitude>180.3986473563814</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>365.8107991048746</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0AC8CB2B3C34C3385AB0</styleUrl>
+		<Point>
+			<coordinates>-87.64948387752328,41.87288346635717,191.3561034780447</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01030788603383D6A243">
+		<name>English (all varieties)</name>
+		<description><![CDATA[<div><b>All respondents to our Google form are speakers or learners of English</b> at various levels and in various contexts.</div>]]></description>
+		<LookAt>
+			<longitude>8.150702008257401</longitude>
+			<latitude>50.36639528616938</latitude>
+			<altitude>2157.07765113593</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4665779.121646285</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-0.1275,51.507222,-174.3102635952161</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADDD38EF9336A2555D7">
+		<name>Albanian</name>
+		<description><![CDATA[<div><b>6 respondents speak Albanian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>25.72021230718632</longitude>
+			<latitude>41.05384885635057</latitude>
+			<altitude>467.7503941853399</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1973959.901340902</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>19.818611,41.327222,16.95773417370692</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F1E9E7E23336A4684E9">
+		<name>African-American Vernacular English (AAVE)</name>
+		<description><![CDATA[<div><b>3 respondents speak African-American Vernacular English.</b></div>]]></description>
+		<LookAt>
+			<longitude>-84.85288527409971</longitude>
+			<latitude>33.79874220885115</latitude>
+			<altitude>316.8189232673568</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2686282.585037649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-84.4104915103169,33.73942604267716,395.0124877780899</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08124AC09B336A439364">
+		<name>American Sign Language (ASL)</name>
+		<description><![CDATA[<div><b>2 respondents are learning American Sign Language.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-72.83539962350906</longitude>
+			<latitude>41.66357317155311</latitude>
+			<altitude>242.3473154140198</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>300388.3094500378</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-72.674167,41.7625,56.66167105013653</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0323D8E138336A515F1E">
+		<name>Arabic (Egyptian)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Arabic (Egyptian).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>31.31016765865152</longitude>
+			<latitude>28.71062385505732</latitude>
+			<altitude>134.3888155749265</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1261854.145140499</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>31.235833,30.044444,382.1616684850238</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E727103523383AAF49C">
+		<name>Arabic (Iraq)</name>
+		<description><![CDATA[<div><b>5 respondents speak Arabic (Iraq).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>34.2510411376203</longitude>
+			<latitude>30.91727536467431</latitude>
+			<altitude>-361.2664316738347</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4011670.474294424</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>44.366111,33.315278,-646.772098604533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FDC317DBA3383AD80D8">
+		<name>Arabic (Jordan)</name>
+		<description><![CDATA[<div><b>2 respondents speak Arabic (Jordan).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>36.57262655197992</longitude>
+			<latitude>31.60675100955845</latitude>
+			<altitude>712.9761118821951</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>470623.918511644</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>35.932778,31.949722,821.8194141634575</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0826CE628D3383AFEC0C">
+		<name>Arabic (Lebanon)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Arabic (Lebanon).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>35.88466386495648</longitude>
+			<latitude>33.57091796696766</latitude>
+			<altitude>1397.904725818019</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>259352.604897134</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>35.505833,33.898056,42.87515753964816</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="082200800C335B4DB499">
+		<name>Arabic (Palestine)</name>
+		<description><![CDATA[<div><b>6 respondents speak Arabic (Palestine).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>34.9774102006644</longitude>
+			<latitude>32.10448910275954</latitude>
+			<altitude>103.6173424659569</altitude>
+			<heading>2.884085889706439</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>195554.9995729141</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>35.2,31.9,807.3854712353225</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7EF90A9E33E5DED461">
+		<name>Arabic (Saudi Arabia)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Arabic (Saudi Arabia).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>42.04420207265167</longitude>
+			<latitude>24.67008746606064</latitude>
+			<altitude>1554.54809885915</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3662863.211910725</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>46.716667,24.633333,970.0441979238424</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C4C8A8D353383AE975F">
+		<name>Arabic (Syria)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Arabic (Syria).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>36.28617375147052</longitude>
+			<latitude>33.42310354216486</latitude>
+			<altitude>591.5338119456611</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>426227.1668616683</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>36.291944,33.513056,568.0094801060993</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="083B7D924A3383A91BA8">
+		<name>Arabic (Yemen)</name>
+		<description><![CDATA[<div><b>2 respondents speak Arabic (Yemen).</b><br></div><div><b>12 respondents are learning Arabic.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>42.72505557384799</longitude>
+			<latitude>15.52451831292805</latitude>
+			<altitude>263.9800631001504</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2469227.875194848</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>44.206389,15.348333,2613.861526783721</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A7C5A2F033A35F5AEF">
+		<name>Assyrian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Assyrian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>43.85345930015759</longitude>
+			<latitude>36.48123769553457</latitude>
+			<altitude>784.3195214400414</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1089143.592710048</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>43.3775,36.269722,729.7888195416406</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007CF5B09933A36B4896">
+		<name>Basque</name>
+		<description><![CDATA[<div><b>1 respondent speaks Basque.</b><br></div><div><b>1 respondent is learning Basque.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-0.6354061628863772</longitude>
+			<latitude>42.97314975544369</latitude>
+			<altitude>1249.147215468407</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>905486.2237595022</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-2.923611,43.256944,482.7972949815889</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ADC9A6AB0335B3A8E83">
+		<name>Bengali</name>
+		<description><![CDATA[<div><b>2 respondents speak Bengali.</b></div>]]></description>
+		<LookAt>
+			<longitude>90.61236440418904</longitude>
+			<latitude>23.53600148455138</latitude>
+			<altitude>-190.5380974512649</altitude>
+			<heading>2.884085889937543</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>923983.4462486207</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>90.41552197802197,23.80401611252695,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02982706D0336A2667BD">
+		<name>Bulgarian</name>
+		<description><![CDATA[<div><b>4 respondents speak Bulgarian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>25.72021230718632</longitude>
+			<latitude>41.05384885635057</latitude>
+			<altitude>467.7503941853399</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1973959.901340902</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>23.33,42.72540330215936,563.3846274243454</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01D9E960F3336A1D0C52">
+		<name>Burmese</name>
+		<description><![CDATA[<div><b>1 respondent speaks Burmese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>93.95827328651261</longitude>
+			<latitude>18.54883904041432</latitude>
+			<altitude>-105.7054392797933</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3904296.96479559</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>96.15999999999998,16.795,521.2893553145962</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020DBDDE8D336A3CD836">
+		<name>Cantonese</name>
+		<description><![CDATA[<div><b>4 respondents speak Cantonese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>114.5763782625557</longitude>
+			<latitude>22.67346049526664</latitude>
+			<altitude>-79.39054461412793</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>818053.4302210808</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>114.2,22.3,164.3037153708573</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DB8AB6FA7336A37AF50">
+		<name>Catalan</name>
+		<description><![CDATA[<div><b>1 respondent speaks Catalan.</b><b><br></b></div><div><b>1 respondent is learning Catalan.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>6.225578431550211</longitude>
+			<latitude>43.27381925102667</latitude>
+			<altitude>319.7118544348584</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1747219.117713869</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>2.176944,41.382778,183.5394646352967</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F77C09701336A36A83A">
+		<name>Croatian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Croatian.</b></div>]]></description>
+		<LookAt>
+			<longitude>15.98154962053296</longitude>
+			<latitude>47.63400013954276</latitude>
+			<altitude>1577.548907811965</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1745961.41291231</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>15.9775,45.81305600000001,452.3099720543563</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC6D5A13B336A2F3129">
+		<name>Czech</name>
+		<description><![CDATA[<div><b>1 respondent speaks Czech.</b><br></div><div><b>1 respondent is learning Czech.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>15.47478551296377</longitude>
+			<latitude>49.39094811785485</latitude>
+			<altitude>-682.1463568294703</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1566554.683664739</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>14.421389,50.0875,339.5150843758793</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0003F3C2A233A329F49C">
+		<name>Dari</name>
+		<description><![CDATA[<div><b>1 respondent speaks Dari.</b></div>]]></description>
+		<LookAt>
+			<longitude>69.56171171134667</longitude>
+			<latitude>34.11565736271448</latitude>
+			<altitude>3219.622699251834</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1168179.725705087</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>69.17833299999999,34.525278,1767.358047411921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AA68B210D336A3074DC">
+		<name>Dutch (The Netherlands)</name>
+		<description><![CDATA[<div><b>1 respondent speaks </b><b>Dutch (The Netherlands)</b><b>.</b><b><br></b></div><div><b>1 respondent is learning Dutch.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>8.222255515540473</longitude>
+			<latitude>50.60733580560196</latitude>
+			<altitude>536.0954137559072</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1534942.793723792</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>4.893611,52.372778,-81.80423640114529</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02928CBCF2336A3315D5">
+		<name>Estonian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Estonian.</b></div>]]></description>
+		<LookAt>
+			<longitude>28.08013016454962</longitude>
+			<latitude>56.65669551294089</latitude>
+			<altitude>120.7885419393243</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1698504.512064457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>24.745278,59.437222,292.5223712263888</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F2799543336A09CDC8">
+		<name>Farsi/Persian</name>
+		<description><![CDATA[<div><b>6 respondents speak </b><b>Farsi/Persian</b><b>.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>53.87689602044957</longitude>
+			<latitude>34.46336277012776</latitude>
+			<altitude>506.175138011718</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1046877.19249025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>51.388889,35.689167,1447.090090345842</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DE0CD4343336A59A30F">
+		<name>French (Central Africa)</name>
+		<description><![CDATA[<div><b>1 respondent speaks French (Central Africa).</b><br></div><div><b>101 respondents are learning French.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>15.98973848150404</longitude>
+			<latitude>-4.341664824833053</latitude>
+			<altitude>535.1157996697151</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1197132.283905298</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>15.311944,-4.321944,806.7553561365504</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F7A7B22C335B2AAA06">
+		<name>French (France)</name>
+		<description><![CDATA[<div><b>5 respondents speak French (France).</b><br></div><div><b>102 respondents are learning French.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>2.3522222</longitude>
+			<latitude>48.8566667</latitude>
+			<altitude>368.1134843721015</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1213401.941066534</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>2.326762391423143,48.85184740605908,474.7291759589745</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF79B6A74336A5BE19F">
+		<name>French (Haiti)</name>
+		<description><![CDATA[<div><b>1 respondent speaks French (Haiti).</b><br></div><div><b>101 respondents are learning French.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-72.54458368345246</longitude>
+			<latitude>18.91362624044675</latitude>
+			<altitude>1237.156959617359</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>408205.2861555666</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-72.688333,19.445556,70.23360550969497</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08AAC28CCE336A41E8A1">
+		<name>French (Québécois)</name>
+		<description><![CDATA[<div><b>1 respondent speaks&nbsp;French (Québécois).</b><br></div><div><b>101 respondents are learning French.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-74.346302783342</longitude>
+			<latitude>43.85331328803213</latitude>
+			<altitude>-29.06435499289536</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1851717.602136433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-73.57178045816381,45.53063274470118,253.315512849215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="049F1A9041335B4062F0">
+		<name>Ga</name>
+		<description><![CDATA[<div><b>1 respondent speaks Ga.</b></div>]]></description>
+		<LookAt>
+			<longitude>0.2072881065619048</longitude>
+			<latitude>7.615142649436602</latitude>
+			<altitude>463.8913042127644</altitude>
+			<heading>2.884085889856631</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1840076.23788625</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-0.2,5.55,245.1517766704622</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09944E0E04336A3958C4">
+		<name>Gaelic (Irish)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Gaelic (Irish).</b></div>]]></description>
+		<LookAt>
+			<longitude>-3.41000524268987</longitude>
+			<latitude>52.23315604380604</latitude>
+			<altitude>786.6597107310594</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1883951.604061425</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-6.260278,53.35000000000001,-420.5908610120991</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="021F185DE233A37FCA33">
+		<name>Garhwali</name>
+		<description><![CDATA[<div><b>1 respondent speaks Garhwali.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>79.29640331192046</longitude>
+			<latitude>29.53995075833923</latitude>
+			<altitude>2101.485547360282</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1067721.504034996</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>78.029,30.345,2569.208336197215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06824CD8A2336A31EF80">
+		<name>German (Germany)</name>
+		<description><![CDATA[<div><b>5 respondents speak German. (Germany).</b><br></div><div><b>24 respondents are learning German.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>9.305749052464503</longitude>
+			<latitude>50.33822351463976</latitude>
+			<altitude>222.372517358023</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2575109.189338088</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>13.405,52.52,-444.566061046852</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F46342351335B28EDD1">
+		<name>Modern Greek</name>
+		<description><![CDATA[<div><b>2 respondents speak Modern Greek.</b><b><br></b></div><div><b>1 respondent is learning Modern Greek.</b></div>]]></description>
+		<LookAt>
+			<longitude>23.92174563427708</longitude>
+			<latitude>37.80013404633574</latitude>
+			<altitude>120.2709101365622</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>516026.843496412</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>23.73,38,65.26053349609589</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D57C2788E335B3D2054">
+		<name>Gujarati</name>
+		<description><![CDATA[<div><b>9 respondents speak Gujarati.</b></div>]]></description>
+		<LookAt>
+			<longitude>72.53536460570248</longitude>
+			<latitude>22.98144386325816</latitude>
+			<altitude>69.76093797807833</altitude>
+			<heading>2.884085889879262</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>81168.50773693064</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>72.571389,23.0225,71.17652264173917</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A3BA174A2336A47E707">
+		<name>Haitian Creole (Kreyòl)</name>
+		<description><![CDATA[<div><b>1 respondent speaks&nbsp;</b><span><b>Haitian Creole (</b></span><b>kreyòl).</b><span><b></b></span><b></b><br></div><div><br></div>]]></description>
+		<LookAt>
+			<longitude>-72.57553465089154</longitude>
+			<latitude>18.72199273260838</latitude>
+			<altitude>-71.17007105496123</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>487550.7663045824</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-72.333333,18.533333,-49.93526635194094</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E6F03F99B335B3F5508">
+		<name>Hausa</name>
+		<description><![CDATA[<div><b>1 respondent speaks Hausa.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>7.310602977565326</longitude>
+			<latitude>10.23699821361551</latitude>
+			<altitude>544.4416076692473</altitude>
+			<heading>2.88408588986093</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>2927923.676938713</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>8.592032967032976,12.00056869623955,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0631054804335B4B96BC">
+		<name>Modern Hebrew</name>
+		<description><![CDATA[<div><b>7 respondents speak Modern&nbsp;Hebrew.</b><br></div><div><b>2 respondents are learning </b><b>Modern&nbsp;</b><b>Hebrew.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>34.67828019461797</longitude>
+			<latitude>32.1140378390721</latitude>
+			<altitude>-79.64782209881486</altitude>
+			<heading>2.884085889711496</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>449542.3632849009</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>34.78,32.08,25.01842309512434</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="007378C879335B5D2B97">
+		<name>Hiligaynon</name>
+		<description><![CDATA[<div><b>1 respondent speaks&nbsp;Hiligaynon.</b><b></b><br></div>]]></description>
+		<LookAt>
+			<longitude>122.197288061805</longitude>
+			<latitude>12.35312937061791</latitude>
+			<altitude>-331.6411761946996</altitude>
+			<heading>2.884085889593416</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1628391.456666291</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>122.950917,10.676458,-213.7608835222013</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041C7FD373335B22CEF8">
+		<name>Hindi</name>
+		<description><![CDATA[<div><b>8 respondents speak Hindi.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>77.17899590978188</longitude>
+			<latitude>28.57761751733004</latitude>
+			<altitude>269.4260649423989</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>72727.63100911863</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>77.23,28.61,259.178933913595</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08E8A045D0336A289B03">
+		<name>Hungarian</name>
+		<description><![CDATA[<div><b>1 respondent is learning Hungarian.</b></div>]]></description>
+		<LookAt>
+			<longitude>17.99052053465757</longitude>
+			<latitude>46.40464509398072</latitude>
+			<altitude>583.2273539256704</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1125728.011492789</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>19.051389,47.4925,385.4308371370824</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015B9BCBAC335B468F6D">
+		<name>Igbo</name>
+		<description><![CDATA[<div><b>3 respondents speak Igbo.</b></div>]]></description>
+		<LookAt>
+			<longitude>5.816518939658717</longitude>
+			<latitude>6.215615867686889</latitude>
+			<altitude>80.9846061960269</altitude>
+			<heading>2.884085889764468</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1051859.309812188</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>6.79258241758242,6.132488289009451,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F7D2F9A82335B2CB5CA">
+		<name>Italian</name>
+		<description><![CDATA[<div><b>8 respondents speak Italian.</b><br></div><div><b>17 respondents are learning Italian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>12.40306132840717</longitude>
+			<latitude>42.96657419420526</latitude>
+			<altitude>425.7140896428388</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1088220.725229979</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>11.254167,43.771389,528.9775937482433</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08330472D4336A4936C0">
+		<name>Jamaican Patois (Patwah)</name>
+		<description><![CDATA[<div><b>1 respondent speaks&nbsp;Jamaican Patois.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-76.7626617946363</longitude>
+			<latitude>18.24134951971249</latitude>
+			<altitude>269.7932679687663</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>889331.4384891093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-76.79305600000001,17.971389,749.3242087837247</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CACD653A7335B3485B7">
+		<name>Japanese</name>
+		<description><![CDATA[<div><b>4 respondents speak Japanese.</b><br></div><div><b>7 respondents are learning Japanese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>140.4153896826139</longitude>
+			<latitude>35.62480120980867</latitude>
+			<altitude>-47.04759921208232</altitude>
+			<heading>2.884085890071047</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>820192.8005187213</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>139.692222,35.689722,-41.83267138306663</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09F897468C336A162A30">
+		<name>Kannada</name>
+		<description><![CDATA[<div><b>1 respondent speaks Kannada.</b></div>]]></description>
+		<LookAt>
+			<longitude>74.4450144693608</longitude>
+			<latitude>15.11447002600401</latitude>
+			<altitude>857.1355231754401</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2244449.407256842</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>77.591667,12.978889,1179.837622987182</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FEF1D37A7335B3298CB">
+		<name>Kazakh</name>
+		<description><![CDATA[<div><b>3 respondents speak Kazakh.</b></div>]]></description>
+		<LookAt>
+			<longitude>71.64804312340966</longitude>
+			<latitude>50.99230706022063</latitude>
+			<altitude>524.9894778882655</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1265004.672883898</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>71.422222,51.14722199999999,461.9033807520659</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CE705A939335B47BD83">
+		<name>Korean</name>
+		<description><![CDATA[<div><b>3 respondents speak Korean.</b><br></div><div><b>6 respondents are learning Korean.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>127.0466903732972</longitude>
+			<latitude>36.86255903643035</latitude>
+			<altitude>275.1484503160893</altitude>
+			<heading>2.884085889744493</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>775153.1934895366</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>127.0125089408301,37.57202520548439,421.3711352772081</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED8E3175A336A1F53D2">
+		<name>Laotian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Laotian.</b></div>]]></description>
+		<LookAt>
+			<longitude>103.0567932970435</longitude>
+			<latitude>17.50230920543687</latitude>
+			<altitude>496.5458090951981</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1412436.289170384</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>102.63,17.98,847.7650005180576</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01CFC89A80335B2F43C2">
+		<name>Latin</name>
+		<description><![CDATA[<div><b>1 respondent is learning Latin.</b></div>]]></description>
+		<LookAt>
+			<longitude>13.36764814509294</longitude>
+			<latitude>43.02499037685656</latitude>
+			<altitude>331.1318530194976</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>841059.4218935072</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>12.482778,41.893333,28.77975942467134</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0326734314336A345C5B">
+		<name>Latvian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Latvian.</b></div>]]></description>
+		<LookAt>
+			<longitude>28.08013016454962</longitude>
+			<latitude>56.65669551294089</latitude>
+			<altitude>120.7885419393243</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1698504.512064457</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>24.106389,56.948889,726.1164268789988</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05C03176A3335B38F9BF">
+		<name>Lithuanian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Lithuanian.</b></div>]]></description>
+		<LookAt>
+			<longitude>24.53209424212611</longitude>
+			<latitude>54.97870709942027</latitude>
+			<altitude>169.234044245688</altitude>
+			<heading>2.884085889960805</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>559217.3928248137</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>25.2848388805673,54.68418041448864,158.1112317443129</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="026B64AF96335B4959D1">
+		<name>Macedonian</name>
+		<description><![CDATA[<div><b>4 respondents speak&nbsp;</b><span class="mw-page-title-main"><b>Macedonian.</b></span><br></div>]]></description>
+		<LookAt>
+			<longitude>21.71014097505775</longitude>
+			<latitude>41.45265399426934</latitude>
+			<altitude>794.7363030024535</altitude>
+			<heading>2.884085889727932</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>418571.335078776</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>21.431667,41.996111,421.6309697211921</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A9AAD464633A37DCF5E">
+		<name>Magahi</name>
+		<description><![CDATA[<div><b>1 respondent speaks Magahi.</b></div>]]></description>
+		<LookAt>
+			<longitude>85.48543711086538</longitude>
+			<latitude>25.63384504568073</latitude>
+			<altitude>295.2290523236332</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>1072457.453742921</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>85.137553,25.594034,157.1861060354622</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08C1C88D5F33464373CA">
+		<name>Malayalam</name>
+		<description><![CDATA[<div><b>1 respondent speaks Malayalam.</b><br></div><div><b>1 respondent is learning Malayalam.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>76.51310658633625</longitude>
+			<latitude>27.83045659475911</latitude>
+			<altitude>1390.402627830695</altitude>
+			<heading>2.52179403</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99997992</gx:fovy>
+			<range>4967567.515334488</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0AFDB30F2634C3385AB6</styleUrl>
+		<Point>
+			<coordinates>76.9366,8.524100000000001,286.7085950873835</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078A1F50FB336A40380C">
+		<name>Mandarin (Mainland)</name>
+		<description><![CDATA[<div><b>7 respondents speak Mandarin (Mainland).</b><br></div><div><b>8 respondents are learning Mandarin Chinese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>110.7499472968352</longitude>
+			<latitude>33.24346924348752</latitude>
+			<altitude>1598.443666102772</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5430903.761726618</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>116.3975,39.906667,-669.0851491564254</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08232B466433A377F01B">
+		<name>Mandarin (Malaysia)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Mandarin (Malaysia).</b><br></div><div><b>8 respondents are learning Mandarin Chinese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>100.453302918352</longitude>
+			<latitude>5.392464865363361</latitude>
+			<altitude>13.03534146508611</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>201947.6084313914</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>100.329167,5.414444,14.76909207444894</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0940E5570F336A55CC1D">
+		<name>Mandarin (Taiwan)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Mandarin (Taiwan)</b><br></div><div><b>8 respondents are learning Mandarin Chinese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>119.6383660507142</longitude>
+			<latitude>23.89151281493396</latitude>
+			<altitude>951.1314623561883</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1682717.506715655</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>121.5625,25.0375,604.087874091004</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E74CF07C4335B431F6A">
+		<name>Mandinka</name>
+		<description><![CDATA[<div><b>1 respondent speaks Mandinka.</b></div>]]></description>
+		<LookAt>
+			<longitude>-15.64875230270682</longitude>
+			<latitude>13.01304167796738</latitude>
+			<altitude>224.3600900693829</altitude>
+			<heading>2.884085889804039</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>439058.0247947575</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-15.33073791398371,13.49459100618298,0.9773566822299973</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01A24FD72B336A102826">
+		<name>Marathi</name>
+		<description><![CDATA[<div><b>2 respondents speak Marathi.</b></div>]]></description>
+		<LookAt>
+			<longitude>71.18493327666353</longitude>
+			<latitude>20.5077697254114</latitude>
+			<altitude>186.2026719080698</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2534941.052367389</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>72.8775,19.076111,388.0598240820735</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00820ED3E2335B44D905">
+		<name>Mongolian</name>
+		<description><![CDATA[<div><b>1 respondent speaks Mongolian.</b></div>]]></description>
+		<LookAt>
+			<longitude>101.9828002646909</longitude>
+			<latitude>43.54144953505649</latitude>
+			<altitude>1973.351585219863</altitude>
+			<heading>2.884085889784949</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>3921279.017550945</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>106.917222,47.920278,1641.158894572606</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC0912CF9335B5B96C5">
+		<name>Northern Ndebele</name>
+		<description><![CDATA[<div><b>1 respondent speaks Northern Ndebele.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>29.19709540347037</longitude>
+			<latitude>-20.6840049917136</latitude>
+			<altitude>965.8250692094186</altitude>
+			<heading>2.884085889603782</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>2303976.210962534</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>28.60648428849594,-20.12694172811648,1245.451301841531</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A82019B89336A08735B">
+		<name>Pashto</name>
+		<description><![CDATA[<div><b>2 respondents speak Pashto.</b></div>]]></description>
+		<LookAt>
+			<longitude>67.31369711530851</longitude>
+			<latitude>32.59741417306442</latitude>
+			<altitude>1962.962531773289</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1841503.307525218</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>65.80207263525989,31.69838578998349,1074.763165075303</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06ACB4266F336A2B2993">
+		<name>Polish</name>
+		<description><![CDATA[<div><b>5 respondents speak Polish.</b><b><br></b></div><div><b>3 respondents are learning Polish.</b></div>]]></description>
+		<LookAt>
+			<longitude>20.92889734745292</longitude>
+			<latitude>51.18497551578803</latitude>
+			<altitude>414.6097337945786</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1202016.90252319</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>21.011111,52.22999999999999,273.3081390540924</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FF264F05C336A4CAE0A">
+		<name>Portuguese (Brazilian)</name>
+		<description><![CDATA[<div><b>3 respondents speak Portuguese (Brazilian).</b><br></div><div><b>10 respondents are learning Portuguese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-46.63074901135406</longitude>
+			<latitude>-18.48431540375342</latitude>
+			<altitude>2329.607741344603</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4562495.810945034</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-47.882778,-15.793889,2480.623295638964</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09B6259F79336A4A628E">
+		<name>Portuguese (Portugal)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Portuguese (Portugal).</b><br></div><div><b>10 respondents are learning Portuguese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-9.87592306747597</longitude>
+			<latitude>37.26782662704127</latitude>
+			<altitude>158.3955493015897</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1744096.121250093</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-9.15,38.725278,269.1716300925212</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04E1F2EFAC336A0C2E70">
+		<name>Punjabi</name>
+		<description><![CDATA[<div><b>3 respondents speak Punjabi.</b></div>]]></description>
+		<LookAt>
+			<longitude>74.93256843934827</longitude>
+			<latitude>30.39011124753813</latitude>
+			<altitude>176.298290563616</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>642731.725789234</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>74.86,31.64,103.2812678807097</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E548501F133E5DC0A84">
+		<name>Quechua</name>
+		<description><![CDATA[<div><b>1 respondent is learning Quechua.</b></div>]]></description>
+		<LookAt>
+			<longitude>-72.73948434773811</longitude>
+			<latitude>-16.59253186098313</latitude>
+			<altitude>374.4332982446238</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3394336.021683812</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-71.533333,-16.4,1906.339862125395</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="030BE6EB9F336A2A257C">
+		<name>Romanian</name>
+		<description><![CDATA[<div><b>3 respondents speak Romanian.</b></div>]]></description>
+		<LookAt>
+			<longitude>23.27790555595773</longitude>
+			<latitude>45.59389344098555</latitude>
+			<altitude>1686.003125738121</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1910597.895448208</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>26.103889,44.4325,-19.61672664516382</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0965613431336A542265">
+		<name>Russian (Belarus)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Russian (Belarus).</b><br></div><div><b>9 respondents are learning Russian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>31.09299275940644</longitude>
+			<latitude>52.97102862349529</latitude>
+			<altitude>261.4578102974436</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1150999.732542783</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>30.35,53.916667,490.2453216369923</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06AA6B4233336A3B293B">
+		<name>Russian (Russia)</name>
+		<description><![CDATA[<div><b>6 respondents speak Russian (Russia).</b><br></div><div><b>9 respondents are learning Russian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>38.7665270029328</longitude>
+			<latitude>54.02393454819801</latitude>
+			<altitude>40.15982463528866</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3240717.177511455</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>37.617222,55.755833,78.81277028949999</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB2AEDC38335B418F01">
+		<name>Serbian</name>
+		<description><![CDATA[<div><b>4 respondents speak Serbian.</b><br></div><div><b>1 respondent is learning Serbian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>20.14248740893165</longitude>
+			<latitude>44.34750698099288</latitude>
+			<altitude>-0.3425456474895838</altitude>
+			<heading>2.884085889819715</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>481904.4331278652</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>20.46153846153847,44.81246393992844,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A8EAC3AA5336A1BBAA8">
+		<name>Sinhala</name>
+		<description><![CDATA[<div><b>1 respondent speaks Sinhala.</b></div>]]></description>
+		<LookAt>
+			<longitude>80.39690744066496</longitude>
+			<latitude>8.816009048935376</latitude>
+			<altitude>649.1257032015345</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2624323.725051283</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>79.842778,6.934444,533.659731439904</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="041115BF90336A35A50B">
+		<name>Slovenian</name>
+		<description><![CDATA[<div><b>2 resondents are learning Slovenian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>15.39440158001821</longitude>
+			<latitude>46.47076125219763</latitude>
+			<altitude>1255.903489849334</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>574983.1801012158</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>14.506111,46.051389,277.015804131262</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC8D3460E33A367CBC9">
+		<name>Spanish (Argentina)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Argentina).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-55.45147878627522</longitude>
+			<latitude>-36.15258919165596</latitude>
+			<altitude>139.6315474333506</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2946415.962784588</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-58.38138900000001,-34.603611,-318.1421675780139</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04848761533383A3277D">
+		<name>Spanish (Colombia)</name>
+		<description><![CDATA[<div><b>5 respondents speak Spanish (Colombia).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-76.96631327005655</longitude>
+			<latitude>1.964003900013102</latitude>
+			<altitude>1183.930569111775</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3054606.866481901</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-74.072222,4.711111,2767.457338324286</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A91E5A68633839C36F7">
+		<name>Spanish (Cuba)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Cuba).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-79.45301635619556</longitude>
+			<latitude>21.59488426469721</latitude>
+			<altitude>255.5960591674974</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1196304.731613994</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-82.34816227787131,23.10426524682508,247.1470897026812</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0637F0687433839E0C32">
+		<name>Spanish (Dominican Republic)</name>
+		<description><![CDATA[<div><b>2 respondents speak Spanish (Dominican Republic).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-69.94740222119545</longitude>
+			<latitude>18.64169191207753</latitude>
+			<altitude>539.8074598195063</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>756622.3163844645</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-69.92753726389884,18.48390370011413,506.119081834728</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF87B13D33383A1D995">
+		<name>Spanish (Ecuador)</name>
+		<description><![CDATA[<div><b>5 respondents speak Spanish (Ecuador).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-79.18526774761573</longitude>
+			<latitude>-1.191025055114644</latitude>
+			<altitude>1669.705247750134</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4068093.268625736</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-78.5125,-0.22,3150.177945513492</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0719BC55BE33839777AF">
+		<name>Spanish (El Salvador)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (El Salvador).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-89.41909659212379</longitude>
+			<latitude>13.33867076895199</latitude>
+			<altitude>211.9087473083161</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1680529.244662821</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-89.191389,13.698889,698.899673923406</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07210A2970338395F677">
+		<name>Spanish (Guatemala)</name>
+		<description><![CDATA[<div><b>3 respondents speak Spanish (Guatemala).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-91.45581493046939</longitude>
+			<latitude>15.38879641446094</latitude>
+			<altitude>2204.413576111354</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2195313.478093743</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-90.53527800000001,14.613333,1752.010348520554</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A080B4A76338398AA13">
+		<name>Spanish (Honduras)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Honduras).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-87.59150118964681</longitude>
+			<latitude>15.07536060716224</latitude>
+			<altitude>1177.207158606038</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1208175.744710416</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-87.204722,14.105833,1235.109997842846</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2726C3BE3383925D1B">
+		<name>Spanish (Mexico)</name>
+		<description><![CDATA[<div><b>50 respondents speak Spanish (Mexico).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-101.2872138276825</longitude>
+			<latitude>19.89774837226384</latitude>
+			<altitude>2386.601972351114</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3449913.510795237</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-99.13333299999999,19.433333,3396.51149826315</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07BF5E88543383A44FA8">
+		<name>Spanish (Panama)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Panama).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-77.24953792795344</longitude>
+			<latitude>6.834907533591207</latitude>
+			<altitude>403.47895241892</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3055386.856114268</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-79.49119415782418,8.995447374542071,-205.218146037681</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07B28B0A193383A06A0E">
+		<name>Spanish (Peru)</name>
+		<description><![CDATA[<div><b>4 respondents speak Spanish (Peru).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-77.25286582935811</longitude>
+			<latitude>-12.38125126306027</latitude>
+			<altitude>-306.1632280887063</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1715665.233331025</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-77.03749999999999,-12.06,265.6196949786662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A41D05E4333839ABFED">
+		<name>Spanish (Puerto Rico)</name>
+		<description><![CDATA[<div><b>6 respondents speak Spanish (Puerto Rico).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-67.176380235385</longitude>
+			<latitude>17.64922094182847</latitude>
+			<altitude>343.3704106891227</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>948710.6175747514</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-66.063889,18.406389,147.1773676276966</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016BD3D655336A4FE6BA">
+		<name>Spanish (Spain)</name>
+		<description><![CDATA[<div><b>6 respondents speak Spanish (Spain).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-2.242553414151534</longitude>
+			<latitude>39.20704604683942</latitude>
+			<altitude>529.1937027725385</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2554740.219576359</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-3.703333,40.416944,758.3105126489216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01881B726D340A09CE1B">
+		<name>Spanish (Uruguay)</name>
+		<description><![CDATA[<div><b>1 respondent speaks Spanish (Uruguay).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-56.184167</longitude>
+			<latitude>-34.905556</latitude>
+			<altitude>31.12092441708008</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>715749.0938490629</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-56.18089984041367,-34.8771321384092,-45.70491404346785</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09A873E4693383A54A2A">
+		<name>Spanish (Venezuela)</name>
+		<description><![CDATA[<div><b>3 respondents speak Spanish (Venezuela).</b><br></div><div><b>61 respondents are learning Spanish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>-67.29198451153272</longitude>
+			<latitude>7.308462834680886</latitude>
+			<altitude>240.0387441767621</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3055550.714695752</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>-66.903611,10.480556,1270.774745109333</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0436F8848933A3640CF6">
+		<name>Swahili</name>
+		<description><![CDATA[<div><b>1 respondent is learning Swahili.</b></div>]]></description>
+		<LookAt>
+			<longitude>39.97621998532296</longitude>
+			<latitude>-5.137441168590602</latitude>
+			<altitude>-296.1206778251031</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3417631.661404967</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>39.280278,-6.816111,-138.0892519296351</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AF31DC75933E5E16B04">
+		<name>Swedish</name>
+		<description><![CDATA[<div><b>1 respondent speaks Swedish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>18.6025857132836</longitude>
+			<latitude>58.43467698095569</latitude>
+			<altitude>-6.623523261701532</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2273962.179529667</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>18.068611,59.329444,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03F2DE7749335B25B0C7">
+		<name>Tagalog</name>
+		<description><![CDATA[<div><b>10 respondents speak Tagalog.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>123.2588302598462</longitude>
+			<latitude>12.8070969640167</latitude>
+			<altitude>-243.3082396953577</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>1150010.884927064</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>120.9772,14.5958,56.55626126065801</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D282A811533D677A28E">
+		<name>Taishanese</name>
+		<description><![CDATA[<div><b>1 respondent speaks Taishanese.</b></div>]]></description>
+		<LookAt>
+			<longitude>113.1038458868558</longitude>
+			<latitude>22.8358953541488</latitude>
+			<altitude>-31.67999073245096</altitude>
+			<heading>356.646094615258</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>310601.5360374749</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>112.794,22.252,292.9719423170243</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0960F3CC1E336A05D9FF">
+		<name>Tajik</name>
+		<description><![CDATA[<div><b>1 respondent is learning Tajik.</b></div>]]></description>
+		<LookAt>
+			<longitude>69.85548443213126</longitude>
+			<latitude>38.0697299568445</latitude>
+			<altitude>1585.833537361554</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1225601.05106771</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>68.78,38.536667,1134.469331777363</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09012E7E23336A197A28">
+		<name>Tamil</name>
+		<description><![CDATA[<div><b>6 respondents speak Tamil.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>76.8932554899763</longitude>
+			<latitude>10.20014693352034</latitude>
+			<altitude>963.5269982876065</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2682694.594754577</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_043CE887B434C3385AB9</styleUrl>
+		<Point>
+			<coordinates>80.27500000000001,13.0825,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ACF50B538336A121D75">
+		<name>Telugu</name>
+		<description><![CDATA[<div><b>4 respondents speak Telugu.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>77.37062425330836</longitude>
+			<latitude>17.66664462142873</latitude>
+			<altitude>58.5841864115789</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2169097.624023557</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>78.474722,17.361667,770.5656957163832</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B866BC27A336A1E43AE">
+		<name>Thai</name>
+		<description><![CDATA[<div><b>1 respondent speaks Thai.</b></div>]]></description>
+		<LookAt>
+			<longitude>96.82777902460502</longitude>
+			<latitude>16.10963061977171</latitude>
+			<altitude>16.70149525526368</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2435637.43560344</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>100.494167,13.7525,-67.81563497571709</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DA9EA6C73336A23978D">
+		<name>Turkish</name>
+		<description><![CDATA[<div><b>6 respondents speak Turkish.</b><br></div><div><b>2 respondents are learning Turkish.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>30.57015212331136</longitude>
+			<latitude>39.33402508985701</latitude>
+			<altitude>1121.412955421431</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2432524.692167938</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>28.955,41.013611,988.7186328480677</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="029E6C35EC335B30B9F1">
+		<name>Ukrainian</name>
+		<description><![CDATA[<div><b>4 respondents speak Ukrainian.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>31.38112606682291</longitude>
+			<latitude>48.1115153453608</latitude>
+			<altitude>-117.8359175762398</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>2087038.081848621</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>30.523333,50.45,415.0889267993517</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0916377BB0336A0E5506">
+		<name>Urdu</name>
+		<description><![CDATA[<div><b>12 respondents speak Urdu.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>70.11468680476329</longitude>
+			<latitude>28.33371667647057</latitude>
+			<altitude>733.9358667029413</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2232023.306601942</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>67.01000000000001,24.86,29.1524410659899</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FD4DA760A336A20B267">
+		<name>Vietnamese</name>
+		<description><![CDATA[<div><b>1 respondent speaks Vietnamese.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>108.2152407005342</longitude>
+			<latitude>13.59917650151028</latitude>
+			<altitude>187.7320132493499</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>2356335.008679629</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>106.702,10.77555,8.811826889354418</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="095C8451C8335B513920">
+		<name>Yiddish</name>
+		<description><![CDATA[<div><b>1 respondent speaks Yiddish.</b></div>]]></description>
+		<LookAt>
+			<longitude>30.95009008503304</longitude>
+			<latitude>49.16704957686998</latitude>
+			<altitude>-1299.82711618347</altitude>
+			<heading>2.884085889652583</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>6683767.614973783</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>24.032222,49.8425,839.0832729753594</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003FEE8B29335B36851B">
+		<name>Yoruba</name>
+		<description><![CDATA[<div><b>5 respondents speak Yoruba.</b><br></div>]]></description>
+		<LookAt>
+			<longitude>3.413445801504109</longitude>
+			<latitude>6.450707727564254</latitude>
+			<altitude>7.939943525633215</altitude>
+			<heading>2.884085890007835</heading>
+			<tilt>0</tilt>
+			<gx:fovy>34.99999999999878</gx:fovy>
+			<range>80595.09170372041</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_05E689A3BA34C3385AB2</styleUrl>
+		<Point>
+			<coordinates>3.384082,6.455027,13.52195002422684</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
